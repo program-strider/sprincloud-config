@@ -1,2 +1,2 @@
-eureka:
-  master:prod
+config:
+  info: master:prod
