@@ -1,2 +1,2 @@
-eureka:
-  master:test
+config:
+  info: master:test
