@@ -1,2 +1,2 @@
 config:
-  info: config-branch-dev-prod
+  info: config-branch-dev-prod,version=1
